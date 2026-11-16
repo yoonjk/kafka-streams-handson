@@ -6,6 +6,8 @@
 .mvn/*
 .settings/*
 
+.DS_Store
+
 # Compiled class file
 *.class
 
